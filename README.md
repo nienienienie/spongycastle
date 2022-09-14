@@ -1,3 +1,5 @@
+# Spongy Castle has been stopped. Please use the original Bouncy Castle code (this is fork).
+
 # The Bouncy Castle Crypto Package For Java
 
 The Bouncy Castle Crypto package is a Java implementation of cryptographic algorithms, it was developed by the Legion of the Bouncy Castle, a registered Australian Charity, with a little help! The Legion, and the latest goings on with this package, can be found at [http://www.bouncycastle.org](http://www.bouncycastle.org).
